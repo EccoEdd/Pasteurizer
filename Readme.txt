@@ -1,4 +1,4 @@
 Codigo proporcionado para alumnos del Conalep.
-cualquier duda acerda de dicho codigo contactar al siguiente correo;
+cualquier duda acerca de dicho codigo contactar al siguiente correo;
 
 coriaedd@gmail.com
